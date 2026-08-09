@@ -1,0 +1,6 @@
+{
+  "name": "AI Deepfake Detector & Research Platform",
+  "description": "Deepfake Image & Video Detection using CNN, ResNet50, and Vision Transformer (ViT) with Grad-CAM XAI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
